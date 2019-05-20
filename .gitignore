@@ -1,0 +1,6 @@
+.env
+*.yaml
+*.pyc
+node_modules/
+.cache
+frontend/static/js
